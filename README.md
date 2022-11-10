@@ -1,0 +1,2 @@
+# get_AP_recall_precision_f1
+将每个预测类别的score以score对应的RECALL、PRECISION、F1在控制台打印出来，而AP曲线的数据在result文件夹下面的TXT文件里有
